@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CVehicleModelInfoVariation>
   <variationData>
-  <modelName>CAMBIARESTO</modelName>
+    <Item>
+      <modelName></modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -10,7 +11,7 @@
             <Item value="111" />
             <Item value="111" />
           </indices>
-          <liveries/>
+          <liveries />
         </Item>
       </colors>
       <kits>
